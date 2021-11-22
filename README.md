@@ -6,5 +6,5 @@ Dave Gnukem for Pi4
 Dave Gnukem is a retro-style 2D scrolling platform shooter similar to, and inspired by, Duke Nukem 1 (~1991). The source code is cross-platform and open source
 
 ```
-wget https://raw.githubusercontent.com/Exarkuniv/DuneLegacy-RPI/Master/dunelegacy.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
+wget https://raw.githubusercontent.com/Exarkuniv/Dave-Gnukem-RPI/Master/gnukem.sh -P $HOME/RetroPie-Setup/scriptmodules/ports/
 ```
